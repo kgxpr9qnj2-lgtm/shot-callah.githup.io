@@ -1,5 +1,0 @@
-{
-  "name": "Interactive Periodic Table",
-  "description": "An interactive periodic table application for studying chemical elements. Users can explore elements, toggle informational labels, highlight specific element groups, and view detailed data for each element.",
-  "requestFramePermissions": []
-}
